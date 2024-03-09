@@ -68,6 +68,11 @@ Each part of the code contributes to creating an interactive snake game with a g
 <img width="525" alt="image" src="https://github.com/Subhadip7/Snake-Game-/assets/95004440/6fded002-8ec5-4dff-abfd-2580e8fdade2">
 
 
+
+
+
+
+
 <img width="526" alt="image" src="https://github.com/Subhadip7/Snake-Game-/assets/95004440/d649c8f4-8ccb-49e3-bc30-452959ebb724">
 
 
